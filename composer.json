@@ -1,0 +1,15 @@
+{
+    "name": "artie/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Artie\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "StanMarsh28",
+            "email": "sobolewa.nas2016@gmail.com"
+        }
+    ],
+    "require": {}
+}
